@@ -8,4 +8,8 @@ public class Greeter {
     public String greet(){
         return "Hello " + name + ", what a wonderful day.";
     }
+
+    public String happyBirthady(){
+        return "Happy Birthday to you, "+ name;
+    }
 }
